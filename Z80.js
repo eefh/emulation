@@ -1,3 +1,4 @@
+//cpu
 class Z80 {
     constructor() {
         (this.clock = {
